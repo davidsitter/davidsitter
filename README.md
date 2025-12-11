@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋  
+I'm David, a full-stack developer based in Wolfsburg, Germany.
+
+### 🧑‍💻 Tech Stack  
+React • TypeScript • Node.js • Java • C#
+
+### 🚗 Professional Experience  
+Throughout my career, I've built and developed projects for major automotive companies, including **Volkswagen** and the **BMW Group**.
+
+### 🎮 About Me  
+In my free time, I enjoy gaming, doing some occasional sports, and watching anime or reading manga.
+
 
 <!--
 **davidsitter/davidsitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
