@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm David</h1>
 
 <p align="center">
-  Full-stack developer based in Wolfsburg, Germany 🇩🇪
+  Full-stack developer based in Braunschweig, Germany 🇩🇪
 </p>
 
 <p align="center">
@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 ---
@@ -22,7 +23,7 @@
 **Backend:** Node.js, Express, REST, GraphQL, WebSocket  
 **Frontend:** React, HTML, CSS, WPF  
 **Databases:** MongoDB, NoSQL, SQL, MySQL  
-**Tools:** Cursor
+**Tools:** Cursor, Claude
 
 ### 🎮 About Me
 
