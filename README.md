@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </p>
 
 ---
@@ -22,8 +20,7 @@
 **Languages:** JavaScript, TypeScript, Java, C#  
 **Backend:** Node.js, Express, REST, GraphQL, WebSocket  
 **Frontend:** React, HTML, CSS, WPF  
-**Databases:** MongoDB, NoSQL, SQL, MySQL  
-**Tools:** Cursor, Claude
+**Databases:** MongoDB, NoSQL, SQL, MySQL
 
 ### 🎮 About Me
 
